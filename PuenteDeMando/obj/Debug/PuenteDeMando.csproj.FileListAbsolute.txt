@@ -1,0 +1,11 @@
+G:\DAM2\Desarrollo de Interfaces\Tema1\Ejercicios\PuenteDeMando\PuenteDeMando\bin\Debug\PuenteDeMando.exe.config
+G:\DAM2\Desarrollo de Interfaces\Tema1\Ejercicios\PuenteDeMando\PuenteDeMando\bin\Debug\PuenteDeMando.exe
+G:\DAM2\Desarrollo de Interfaces\Tema1\Ejercicios\PuenteDeMando\PuenteDeMando\bin\Debug\PuenteDeMando.pdb
+G:\DAM2\Desarrollo de Interfaces\Tema1\Ejercicios\PuenteDeMando\PuenteDeMando\obj\Debug\PuenteDeMando.csprojResolveAssemblyReference.cache
+G:\DAM2\Desarrollo de Interfaces\Tema1\Ejercicios\PuenteDeMando\PuenteDeMando\obj\Debug\PuenteDeMando.Properties.Resources.resources
+G:\DAM2\Desarrollo de Interfaces\Tema1\Ejercicios\PuenteDeMando\PuenteDeMando\obj\Debug\PuenteDeMando.csproj.GenerateResource.Cache
+G:\DAM2\Desarrollo de Interfaces\Tema1\Ejercicios\PuenteDeMando\PuenteDeMando\obj\Debug\PuenteDeMando.exe
+G:\DAM2\Desarrollo de Interfaces\Tema1\Ejercicios\PuenteDeMando\PuenteDeMando\obj\Debug\PuenteDeMando.pdb
+G:\DAM2\Desarrollo de Interfaces\Tema1\Ejercicios\PuenteDeMando\PuenteDeMando\obj\Debug\PuenteDeMando.AboutUsGUI.resources
+G:\DAM2\Desarrollo de Interfaces\Tema1\Ejercicios\PuenteDeMando\PuenteDeMando\obj\Debug\PuenteDeMando.EscudoGUI.resources
+G:\DAM2\Desarrollo de Interfaces\Tema1\Ejercicios\PuenteDeMando\PuenteDeMando\obj\Debug\PuenteDeMando.PuenteDeMandoGUI.resources
